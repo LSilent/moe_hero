@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCCommon.cpp
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCApplication.h
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCAccelerometer.cpp
+END
+CCDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCDevice.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCAccelerometer.h
+END
+CCFileUtilsAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCFileUtilsAndroid.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCStdC.h
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCEGLView.cpp
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCImage.cpp
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCPlatformDefine.h
+END
+CCFileUtilsAndroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCFileUtilsAndroid.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCGL.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/CCEGLView.h
+END

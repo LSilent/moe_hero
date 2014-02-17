@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision
+END
+b2Distance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2Distance.cpp
+END
+b2Collision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2Collision.cpp
+END
+b2BroadPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2BroadPhase.h
+END
+b2CollideCircle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2CollideCircle.cpp
+END
+b2Distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2Distance.h
+END
+b2CollideEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2CollideEdge.cpp
+END
+b2Collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2Collision.h
+END
+b2TimeOfImpact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2TimeOfImpact.cpp
+END
+b2CollidePolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2CollidePolygon.cpp
+END
+b2DynamicTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2DynamicTree.cpp
+END
+b2TimeOfImpact.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2TimeOfImpact.h
+END
+b2BroadPhase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2BroadPhase.cpp
+END
+b2DynamicTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/Box2D/Collision/b2DynamicTree.h
+END

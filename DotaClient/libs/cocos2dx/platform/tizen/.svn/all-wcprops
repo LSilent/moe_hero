@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCCommon.cpp
+END
+CCOspApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCOspApplication.h
+END
+CCOspForm.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCOspForm.h
+END
+CCDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCDevice.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCStdC.h
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCEGLView.cpp
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCPlatformDefine.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCEGLView.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCGL.h
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCApplication.h
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCAccelerometer.cpp
+END
+CCFileUtilsTizen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCFileUtilsTizen.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCAccelerometer.h
+END
+CCFileUtilsTizen.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCFileUtilsTizen.h
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCImage.cpp
+END
+CCOspForm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCOspForm.cpp
+END
+CCOspApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/tizen/CCOspApplication.cpp
+END

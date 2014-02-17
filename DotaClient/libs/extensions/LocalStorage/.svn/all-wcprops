@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/LocalStorage
+END
+LocalStorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/LocalStorage/LocalStorage.cpp
+END
+LocalStorageAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/LocalStorage/LocalStorageAndroid.cpp
+END
+LocalStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/LocalStorage/LocalStorage.h
+END

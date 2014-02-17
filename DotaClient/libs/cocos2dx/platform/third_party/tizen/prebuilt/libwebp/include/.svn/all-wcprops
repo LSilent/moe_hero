@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/prebuilt/libwebp/include
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/prebuilt/libwebp/include/encode.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/prebuilt/libwebp/include/decode.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/prebuilt/libwebp/include/types.h
+END

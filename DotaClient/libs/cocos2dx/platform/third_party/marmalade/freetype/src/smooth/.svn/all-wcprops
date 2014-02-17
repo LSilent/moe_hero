@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth
+END
+ftgrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftgrays.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/rules.mk
+END
+ftsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmooth.c
+END
+ftgrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftgrays.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/Jamfile
+END
+ftsmooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmooth.h
+END
+ftspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftspic.c
+END
+smooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/smooth.c
+END
+ftsmerrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftsmerrs.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/module.mk
+END
+ftspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/smooth/ftspic.h
+END

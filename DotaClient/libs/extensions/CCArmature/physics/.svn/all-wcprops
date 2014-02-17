@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/physics
+END
+CCPhysicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/physics/CCPhysicsWorld.cpp
+END
+CCColliderDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/physics/CCColliderDetector.h
+END
+CCPhysicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/physics/CCPhysicsWorld.h
+END
+CCColliderDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/physics/CCColliderDetector.cpp
+END

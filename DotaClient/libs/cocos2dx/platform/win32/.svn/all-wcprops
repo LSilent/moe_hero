@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32
+END
+CCFileUtilsWin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCFileUtilsWin32.h
+END
+CCCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCCommon.cpp
+END
+CCStdC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCStdC.cpp
+END
+CCDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCDevice.cpp
+END
+CCStdC.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCStdC.h
+END
+CCEGLView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCEGLView.cpp
+END
+CCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCApplication.cpp
+END
+CCPlatformDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCPlatformDefine.h
+END
+CCGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCGL.h
+END
+CCEGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCEGLView.h
+END
+CCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCApplication.h
+END
+CCAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCAccelerometer.cpp
+END
+CCAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCAccelerometer.h
+END
+CCImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCImage.cpp
+END
+CCFileUtilsWin32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/win32/CCFileUtilsWin32.cpp
+END

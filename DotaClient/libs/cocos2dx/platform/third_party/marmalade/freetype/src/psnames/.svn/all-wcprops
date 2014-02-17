@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames
+END
+pspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pspic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/rules.mk
+END
+pstables.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pstables.h
+END
+pspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/pspic.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/Jamfile
+END
+psnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psnames.c
+END
+psmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psmodule.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/module.mk
+END
+psnamerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psnamerr.h
+END
+psmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/psnames/psmodule.h
+END

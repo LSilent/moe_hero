@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries
+END
+libpng.lib
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libpng.lib
+END
+pthreadVCE2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/pthreadVCE2.dll
+END
+libjpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libjpeg.lib
+END
+libtiff.lib
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libtiff.lib
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/iconv.dll
+END
+libwebp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libwebp.lib
+END
+libtiff.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libtiff.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/zlib1.dll
+END
+libzlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libzlib.lib
+END
+libcurl_imp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libcurl_imp.lib
+END
+libcurl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libcurl.dll
+END
+glew32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/glew32.lib
+END
+libiconv.lib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/libiconv.lib
+END
+pthreadVCE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/pthreadVCE2.lib
+END
+glew32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/libraries/glew32.dll
+END

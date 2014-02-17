@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni
+END
+IMEJni.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/IMEJni.h
+END
+JniHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/JniHelper.cpp
+END
+Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp
+END
+DPIJni.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/DPIJni.h
+END
+Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp
+END
+JniHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/JniHelper.h
+END
+Java_org_cocos2dx_lib_Cocos2dxHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.cpp
+END
+Java_org_cocos2dx_lib_Cocos2dxBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxBitmap.h
+END
+IMEJni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/IMEJni.cpp
+END
+Java_org_cocos2dx_lib_Cocos2dxHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxHelper.h
+END
+TouchesJni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/TouchesJni.cpp
+END
+DPIJni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/DPIJni.cpp
+END
+Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/jni/Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp
+END

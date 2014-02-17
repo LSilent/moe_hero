@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftstdlib.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftconfig.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftmodule.h
+END
+ftconfig-32.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftconfig-32.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/freetype2/freetype/config/ftoption.h
+END

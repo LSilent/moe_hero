@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2104/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher
+END
+CCTouchDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/2104/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dota/!svn/ver/2104/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.h
+END
+CCTouchHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/2072/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouchHandler.cpp
+END
+CCTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouch.cpp
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/2072/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouchHandler.h
+END
+CCTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/touch_dispatcher/CCTouch.h
+END

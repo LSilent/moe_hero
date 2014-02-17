@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib
+END
+Cocos2dxEditText.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxEditText.java
+END
+Cocos2dxActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxActivity.java
+END
+Cocos2dxETCLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxETCLoader.java
+END
+Cocos2dxRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxRenderer.java
+END
+Cocos2dxGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxGLSurfaceView.java
+END
+Cocos2dxAccelerometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxAccelerometer.java
+END
+Cocos2dxBitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxBitmap.java
+END
+Cocos2dxHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxHandler.java
+END
+Cocos2dxEditBoxDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxEditBoxDialog.java
+END
+Cocos2dxLocalStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxLocalStorage.java
+END
+Cocos2dxHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxHelper.java
+END
+Cocos2dxMusic.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxMusic.java
+END
+Cocos2dxTypefaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxTypefaces.java
+END
+Cocos2dxTextInputWraper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxTextInputWraper.java
+END
+Cocos2dxSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/android/java/src/org/cocos2dx/lib/Cocos2dxSound.java
+END

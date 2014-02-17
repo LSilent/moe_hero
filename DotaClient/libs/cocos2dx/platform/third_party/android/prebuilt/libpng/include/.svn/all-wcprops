@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libpng/include
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libpng/include/pngconf.h
+END
+pngusr.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libpng/include/pngusr.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libpng/include/png.h
+END

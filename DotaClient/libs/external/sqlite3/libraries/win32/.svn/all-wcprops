@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/sqlite3/libraries/win32
+END
+sqlite3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/sqlite3/libraries/win32/sqlite3.lib
+END
+sqlite3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/external/sqlite3/libraries/win32/sqlite3.dll
+END

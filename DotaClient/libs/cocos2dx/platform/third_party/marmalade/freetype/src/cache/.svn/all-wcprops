@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache
+END
+ftccache.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftccache.c
+END
+ftcmru.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcmru.c
+END
+ftccache.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftccache.h
+END
+ftccback.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftccback.h
+END
+ftcmru.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcmru.h
+END
+ftccmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftccmap.c
+END
+ftcbasic.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcbasic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/rules.mk
+END
+ftcimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcimage.c
+END
+ftcglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcglyph.c
+END
+ftcmanag.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcmanag.c
+END
+ftcsbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcsbits.c
+END
+ftcimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcimage.h
+END
+ftcglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcglyph.h
+END
+ftcmanag.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcmanag.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/Jamfile
+END
+ftcsbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcsbits.h
+END
+ftcerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcerror.h
+END
+ftcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/cache/ftcache.c
+END

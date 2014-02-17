@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08E75FF7-37AE-43A8-AA94-976C7592C45A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DotaClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F6E6DF1-82DB-4783-84C4-75CADDCAA476</key>
+		<string>https://192.168.1.140:8443/svn/dota/branches/dota1.1/server</string>
+		<key>6CF89EB4-CBFC-4BC5-BFA7-FCD0AFC7A0DC</key>
+		<string>https://192.168.1.140:8443/svn/dota/branches/dota1.1/client</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DotaClient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F6E6DF1-82DB-4783-84C4-75CADDCAA476</key>
+		<string>../../../Server</string>
+		<key>6CF89EB4-CBFC-4BC5-BFA7-FCD0AFC7A0DC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4F6E6DF1-82DB-4783-84C4-75CADDCAA476</key>
+		<string>https://192.168.1.140:8443/svn/dota</string>
+		<key>6CF89EB4-CBFC-4BC5-BFA7-FCD0AFC7A0DC</key>
+		<string>https://192.168.1.140:8443/svn/dota</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.140:8443/svn/dota/branches/dota1.1/client/DotaClient.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6CF89EB4-CBFC-4BC5-BFA7-FCD0AFC7A0DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CF89EB4-CBFC-4BC5-BFA7-FCD0AFC7A0DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>client</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F6E6DF1-82DB-4783-84C4-75CADDCAA476</string>
+			<key>IDESourceControlWCCName</key>
+			<string>server</string>
+		</dict>
+	</array>
+</dict>
+</plist>

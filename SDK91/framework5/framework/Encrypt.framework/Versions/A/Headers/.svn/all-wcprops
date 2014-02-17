@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers
+END
+NDGTMBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers/NDGTMBase64.h
+END
+NDDes3.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers/NDDes3.h
+END
+NDEncryptError.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers/NDEncryptError.h
+END
+NDSimpleRSA.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers/NDSimpleRSA.h
+END
+GTMDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/1323/branches/dota1.1/client/SDK91/framework5/framework/Encrypt.framework/Versions/A/Headers/GTMDefines.h
+END

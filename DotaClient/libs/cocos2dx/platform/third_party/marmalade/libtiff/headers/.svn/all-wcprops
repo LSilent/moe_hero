@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers
+END
+tif_predict.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tif_predict.h
+END
+tiffconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiffconf.h
+END
+tif_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tif_dir.h
+END
+tiffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiffio.h
+END
+tiffio.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiffio.hxx
+END
+tiffiop.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiffiop.h
+END
+tif_fax3.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tif_fax3.h
+END
+uvcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/uvcode.h
+END
+t4.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/t4.h
+END
+tif_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tif_config.h
+END
+tif_stream.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tif_stream.cxx
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiff.h
+END
+tiffvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff/headers/tiffvers.h
+END

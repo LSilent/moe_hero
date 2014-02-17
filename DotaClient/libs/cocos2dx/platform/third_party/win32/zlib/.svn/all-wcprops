@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/zlib
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/zlib/zconf.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32/zlib/zlib.h
+END

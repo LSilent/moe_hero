@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dota/!svn/ver/2301/branches/dota1.1/client/DotaClient/libs/extensions
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/Android.mk
+END
+ExtensionMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/ExtensionMacros.h
+END
+cocos-ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/cocos-ext.h
+END

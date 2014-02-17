@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade
+END
+freetype.mkf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype.mkf
+END
+libwebp.mkf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp.mkf
+END
+libtiff.mkf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libtiff.mkf
+END

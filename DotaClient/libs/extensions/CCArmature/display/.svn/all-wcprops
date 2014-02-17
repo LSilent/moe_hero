@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display
+END
+CCSkin.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCSkin.h
+END
+CCDecorativeDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDecorativeDisplay.cpp
+END
+CCBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCBatchNode.h
+END
+CCShaderNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCShaderNode.cpp
+END
+CCDisplayFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDisplayFactory.cpp
+END
+CCDecorativeDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDecorativeDisplay.h
+END
+CCDisplayManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDisplayManager.cpp
+END
+CCShaderNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCShaderNode.h
+END
+CCDisplayFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDisplayFactory.h
+END
+CCSkin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCSkin.cpp
+END
+CCDisplayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCDisplayManager.h
+END
+CCBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/display/CCBatchNode.cpp
+END

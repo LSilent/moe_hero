@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src
+END
+SocketServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/SocketServer.cpp
+END
+SocketStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/SocketStream.cpp
+END
+SocketClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/SocketClient.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/Socket.cpp
+END
+SocketInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/SocketInterface.cpp
+END
+InputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/InputStream.cpp
+END
+OutputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/netlib/Src/OutputStream.cpp
+END

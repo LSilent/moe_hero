@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/include/win32helpers
+END
+gettimeofday.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/include/win32helpers/gettimeofday.h
+END
+websock-w32.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/include/win32helpers/websock-w32.h
+END

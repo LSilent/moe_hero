@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine
+END
+CCSkeletonAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/CCSkeletonAnimation.h
+END
+CCSkeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/CCSkeleton.h
+END
+Skin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Skin.cpp
+END
+Atlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Atlas.cpp
+END
+AtlasAttachmentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AtlasAttachmentLoader.cpp
+END
+spine-cocos2dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/spine-cocos2dx.h
+END
+AnimationStateData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AnimationStateData.cpp
+END
+SlotData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/SlotData.cpp
+END
+Json.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/Json.h
+END
+Animation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Animation.cpp
+END
+AnimationState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AnimationState.cpp
+END
+Slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Slot.cpp
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/extension.h
+END
+BoneData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/BoneData.h
+END
+SkeletonJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/SkeletonJson.h
+END
+SkeletonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/SkeletonData.h
+END
+AttachmentLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AttachmentLoader.h
+END
+Attachment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Attachment.cpp
+END
+Bone.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Bone.h
+END
+Skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Skeleton.h
+END
+CCSkeletonAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/CCSkeletonAnimation.cpp
+END
+CCSkeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/CCSkeleton.cpp
+END
+spine-cocos2dx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/spine-cocos2dx.cpp
+END
+RegionAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/RegionAttachment.h
+END
+Skin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Skin.h
+END
+Json.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Json.cpp
+END
+Atlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Atlas.h
+END
+AtlasAttachmentLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/AtlasAttachmentLoader.h
+END
+extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/extension.cpp
+END
+BoneData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/BoneData.cpp
+END
+SkeletonJson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/SkeletonJson.cpp
+END
+SkeletonData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/SkeletonData.cpp
+END
+AnimationStateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/AnimationStateData.h
+END
+AttachmentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AttachmentLoader.cpp
+END
+SlotData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/SlotData.h
+END
+Bone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Bone.cpp
+END
+spine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/spine.h
+END
+Skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Skeleton.cpp
+END
+Animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/Animation.h
+END
+AnimationState.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/AnimationState.h
+END
+Slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/Slot.h
+END
+RegionAttachment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/spine/RegionAttachment.cpp
+END
+Attachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/extensions/spine/Attachment.h
+END

@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DC743401-2473-4EFD-963D-3ACEC1BA8816}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\..\..\gameres\Client\</OutDir>
+    <IntDir>$(Configuration).win32\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <GenerateManifest>true</GenerateManifest>
+    <EmbedManifest>true</EmbedManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir>$(Configuration).win32\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.;..\Classes;$(SolutionDir)DotaClient\libs\cocos2dx;$(SolutionDir)DotaClient\libs\cocos2dx\include;$(SolutionDir)DotaClient\libs\cocos2dx\kazmath\include;$(SolutionDir)DotaClient\libs\cocos2dx\platform\win32;$(SolutionDir)DotaClient\libs\cocos2dx\platform\third_party\win32;$(SolutionDir)DotaClient\libs\cocos2dx\platform\third_party\win32\pthread;$(SolutionDir)DotaClient\libs\cocos2dx\platform\third_party\win32\OGLES;$(SolutionDir)DotaClient\libs\CocosDenshion\include;$(SolutionDir)DotaClient\libs\extensions;$(SolutionDir)DotaClient\libs\extensions\GUI;..\..\..\server\Common;..\..\..\server\Common\Packets\Base;..\Classes\ui;..\..\..\server\ServerCommon;..\..\..\server\ServerCommon\Log;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <MinimalRebuild>true</MinimalRebuild>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;STRICT;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS_DEBUG;COCOS2D_DEBUG=1;__WINDOWS__;__CLIENT__;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DisableSpecificWarnings>4267;4251;4244;4819;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libcocos2d.lib;opengl32.lib;glew32.lib;libCocosDenshion.lib;libExtensions.lib;libcurl_imp.lib;pthreadVCE2.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>
+      </IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+      <OutputFile>..\..\..\gameres\Client\$(TargetName)$(TargetExt)</OutputFile>
+      <StackReserveSize>4</StackReserveSize>
+    </Link>
+    <ResourceCompile>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <HeaderFileName>DotaClient.h</HeaderFileName>
+      <InterfaceIdentifierFileName>DotaClient_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>DotaClient_p.c</ProxyFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>$(IntDir)/DotaClient.tlb</TypeLibraryName>
+      <DllDataFileName />
+    </Midl>
+    <Manifest>
+      <GenerateCatalogFiles>false</GenerateCatalogFiles>
+      <VerboseOutput>false</VerboseOutput>
+    </Manifest>
+    <ManifestResourceCompile>
+      <ResourceOutputFileName>$(IntDir)\$(TargetFileName).embed.manifest.res</ResourceOutputFileName>
+    </ManifestResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>.;..\Classes;$(SolutionDir)cocos2dx;$(SolutionDir)cocos2dx\include;$(SolutionDir)cocos2dx\kazmath\include;$(SolutionDir)cocos2dx\platform\win32;$(SolutionDir)cocos2dx\platform\third_party\win32;$(SolutionDir)cocos2dx\platform\third_party\win32\OGLES;$(SolutionDir)CocosDenshion\include;$(SolutionDir)extensions;$(SolutionDir)extensions\GUI;..\..\..\server\Common;..\..\..\server\Common\Packets\Base;..\Classes\ui;..\..\..\server\ServerCommon;..\..\..\server\ServerCommon\Log;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <DebugInformationFormat />
+      <PreprocessorDefinitions>WIN32;_WINDOWS;STRICT;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGSNDEBUG;__WINDOWS__;__CLIENT__;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DisableSpecificWarnings>4267;4251;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>$(OutDir);../../../server/Common/Lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libcocos2d.lib;opengl32.lib;glew32.lib;libCocosDenshion.lib;Net.lib;libExtensions.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>MSVCRTD</IgnoreSpecificDefaultLibraries>
+    </Link>
+    <ResourceCompile>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <HeaderFileName>DotaClient.h</HeaderFileName>
+      <InterfaceIdentifierFileName>DotaClient_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>DotaClient_p.c</ProxyFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>$(IntDir)/DotaClient.tlb</TypeLibraryName>
+      <DllDataFileName />
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Image Include="res\DotaClient.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DotaClient.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\server\Common\GameObjectDefine.h" />
+    <ClInclude Include="..\..\..\server\Common\GameUtil.h" />
+    <ClInclude Include="..\..\..\server\Common\ItemData.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Arena\CGArenaAskDetailPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Arena\CGArenaAskEnterPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Arena\CGArenaChallengePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Arena\GCArenaAskEnterRetPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Arena\GCArenaChallengePrizePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\CGHeartBeatPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Charge\CGAskChargePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Charge\GCRetChargePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Fight\CGAskCopySceneListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Fight\CGAskFightPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Fight\GCFightInfoPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Fight\GCRetCopySceneListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Fight\GCUpdateCopyScenePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\GCGameResultPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\GCTimePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\CGAskHeroListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\CGDistribHeroBearpointPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\CGImproveHeroPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\CGRecruitHeroPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\GCHeroDeletePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\GCHeroDetailAttrPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\GCHeroPosChangePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Hero\GCNewHeroListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Human\CGAskHumanDetailAttrPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Human\CGChatPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Human\CGEquipManufacturePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Human\CGSetMatrixObjectPacket.h" />
+    <ClInclude Include="..\..\..\Server\Common\Packets\Human\GCChatPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Human\GCRetHumanDetailAttrPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\HuoDong\CGAskHuoDongListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\HuoDong\GCHuoDongListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\HuoDong\GCHuoDongStateChangePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\CGAskItemListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\CGDropItemPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\CGMoveItemPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\CGUseItemPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCItemDeletePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCItemInfoPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCItemListNotifyPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCItemPosChangePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCNewItemListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Item\GCSwapItemPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\CGAskEnterScenePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\CGAskRolelistPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\CGAskUserDataPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\CGCreateRolePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\GCRetEnterScenePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\GCRetRolelistPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Login\GCRetUserDataReadyPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailAskOpenPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailDelAllPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailDelPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailReadAllPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailReadPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\CGMailWritePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\GCMailNotifyPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mail\GCMailOpenPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mission\CGAskMissionListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mission\CGSubmitMissionPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mission\GCAcceptMissionPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mission\GCMissionListPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Mission\GCUpdateMissionPacket.h" />
+    <ClInclude Include="..\..\..\Server\Common\Packets\Other\CGAskAchievementPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGAskSkillLevelUpPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGBuyActionPointPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGBuyBearPointPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGBuyShopItemPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGEatCheesePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGExchangeStonePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGFreshGuidePacket.h" />
+    <ClInclude Include="..\..\..\Server\Common\Packets\Other\CGGetAchievementAwardPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGGetGiftpackCardPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGRefreshCopyScenePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGRockHeroPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGSacrificePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Other\CGSellItemPacket.h" />
+    <ClInclude Include="..\..\..\Server\Common\Packets\Other\GCRetAchievementPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGAskQuJingDataPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGOpenQuJingUIPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGQuJingHuSongPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGQuJingRobPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGQuJingSetMatrixPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGQuJingSpeedUpPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGRefreshQuJingShiZhePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\CGRefreshQuJingTangSengPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\GCOpenQuJingUIPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\GCQuJingHuSongBroadPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\GCQuJingPrizePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\QuJing\GCRetQuJingDataPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Stair\CGStairAskPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Stair\GCStairMonsterGroupPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Stair\GCStairPlusPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Stair\GCStairPrizePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Stair\GCStairRetEnterPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Wood\CGWoodAskPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Wood\CGWoodSetMatrixPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Wood\GCWoodRetEnterPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Wood\GCWoodRetRobObjPacket.h" />
+    <ClInclude Include="..\..\..\server\Common\Packets\Wood\GCWoodRobPrizePacket.h" />
+    <ClInclude Include="..\..\..\server\Common\XStdio.h" />
+    <ClInclude Include="..\..\..\server\ServerCommon\ServerAssert.h" />
+    <ClInclude Include="..\..\..\server\ServerCommon\ServerGameDefine.h" />
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="..\Classes\AppMacros.h" />
+    <ClInclude Include="..\Classes\base\Global.h" />
+    <ClInclude Include="..\Classes\base\md5.h" />
+    <ClInclude Include="..\Classes\base\nuts.h" />
+    <ClInclude Include="..\Classes\base\pp.h" />
+    <ClInclude Include="..\Classes\base\Sdk_Handler.h" />
+    <ClInclude Include="..\Classes\base\sha1.h" />
+    <ClInclude Include="..\Classes\base\Singleton.h" />
+    <ClInclude Include="..\Classes\base\UtilTools.h" />
+    <ClInclude Include="..\Classes\base\xString.h" />
+    <ClInclude Include="..\Classes\database\DataBase.h" />
+    <ClInclude Include="..\Classes\database\DataBaseDefine.h" />
+    <ClInclude Include="..\Classes\database\DataBaseSystem.h" />
+    <ClInclude Include="..\Classes\database\DBFile.h" />
+    <ClInclude Include="..\Classes\datapool\AchievementData.h" />
+    <ClInclude Include="..\Classes\datapool\BattleData.h" />
+    <ClInclude Include="..\Classes\datapool\BattleInfo.h" />
+    <ClInclude Include="..\Classes\datapool\BloodData.h" />
+    <ClInclude Include="..\Classes\datapool\ChatData.h" />
+    <ClInclude Include="..\Classes\datapool\CopySceneData.h" />
+    <ClInclude Include="..\Classes\datapool\DataPool.h" />
+    <ClInclude Include="..\Classes\datapool\EquipOperator.h" />
+    <ClInclude Include="..\Classes\datapool\GuideData.h" />
+    <ClInclude Include="..\Classes\datapool\HeartBeatData.h" />
+    <ClInclude Include="..\Classes\datapool\HeroAltarData.h" />
+    <ClInclude Include="..\Classes\datapool\HeroOperator.h" />
+    <ClInclude Include="..\Classes\datapool\HuoDong.h" />
+    <ClInclude Include="..\Classes\datapool\loginData.h" />
+    <ClInclude Include="..\Classes\datapool\MailData.h" />
+    <ClInclude Include="..\Classes\datapool\QuestData.h" />
+    <ClInclude Include="..\Classes\datapool\QuJingData.h" />
+    <ClInclude Include="..\Classes\datapool\SportsData.h" />
+    <ClInclude Include="..\Classes\datapool\SelfBagData.h" />
+    <ClInclude Include="..\Classes\datapool\SettingData.h" />
+    <ClInclude Include="..\Classes\datapool\ShopData.h" />
+    <ClInclude Include="..\Classes\datapool\WalkMapData.h" />
+    <ClInclude Include="..\Classes\datapool\WoodData.h" />
+    <ClInclude Include="..\Classes\event\EventDefine.h" />
+    <ClInclude Include="..\Classes\event\EventSystem.h" />
+    <ClInclude Include="..\Classes\Game.h" />
+    <ClInclude Include="..\Classes\game\GameHelper.h" />
+    <ClInclude Include="..\Classes\game\MainGame.h" />
+    <ClInclude Include="..\Classes\game\SendPacket.h" />
+    <ClInclude Include="..\Classes\load\ResourceCheck.h" />
+    <ClInclude Include="..\Classes\load\ResourceSystem.h" />
+    <ClInclude Include="..\Classes\net\NetworkSystem.h" />
+    <ClInclude Include="..\Classes\net\PacketClientFactoryManager.h" />
+    <ClInclude Include="..\Classes\net\PacketExecute.h" />
+    <ClInclude Include="..\Classes\object\Item.h" />
+    <ClInclude Include="..\Classes\object\ItemCommon.h" />
+    <ClInclude Include="..\Classes\object\ItemEquip.h" />
+    <ClInclude Include="..\Classes\object\ItemGem.h" />
+    <ClInclude Include="..\Classes\object\ItemTask.h" />
+    <ClInclude Include="..\Classes\object\MonsterData.h" />
+    <ClInclude Include="..\Classes\object\Object.h" />
+    <ClInclude Include="..\Classes\object\ObjectFactory.h" />
+    <ClInclude Include="..\Classes\object\ObjectFactoryManager.h" />
+    <ClInclude Include="..\Classes\object\ObjectFarm.h" />
+    <ClInclude Include="..\Classes\object\ObjectManager.h" />
+    <ClInclude Include="..\Classes\object\ObjectMonster.h" />
+    <ClInclude Include="..\Classes\object\ObjectPlayer.h" />
+    <ClInclude Include="..\Classes\object\ObjectSelf.h" />
+    <ClInclude Include="..\Classes\object\ObjectSkill.h" />
+    <ClInclude Include="..\Classes\object\PlayerData.h" />
+    <ClInclude Include="..\Classes\object\ObjectHero.h" />
+    <ClInclude Include="..\Classes\sound\SoundSystem.h" />
+    <ClInclude Include="..\Classes\timer\SystemTimer.h" />
+    <ClInclude Include="..\Classes\ui\achievementUI.h" />
+    <ClInclude Include="..\Classes\ui\achievementUIView.h" />
+    <ClInclude Include="..\Classes\ui\ActivitiesUI.h" />
+    <ClInclude Include="..\Classes\ui\ActivitiesUIView.h" />
+    <ClInclude Include="..\Classes\ui\altarUI.h" />
+    <ClInclude Include="..\Classes\ui\altarUIView.h" />
+    <ClInclude Include="..\Classes\ui\bagOwnUI.h" />
+    <ClInclude Include="..\Classes\ui\bagOwnUIView.h" />
+    <ClInclude Include="..\Classes\ui\baseview.h" />
+    <ClInclude Include="..\Classes\ui\battleFieldUI.h" />
+    <ClInclude Include="..\Classes\ui\battleFieldUIView.h" />
+    <ClInclude Include="..\Classes\ui\ChatMessageUI.h" />
+    <ClInclude Include="..\Classes\ui\ChatMessageUIView.h" />
+    <ClInclude Include="..\Classes\ui\cheeseActivityUI.h" />
+    <ClInclude Include="..\Classes\ui\cheeseActivityUIView.h" />
+    <ClInclude Include="..\Classes\ui\element\ActivityView.h" />
+    <ClInclude Include="..\Classes\ui\element\CCMenuEx.h" />
+    <ClInclude Include="..\Classes\ui\element\CCScrollViewEx.h" />
+    <ClInclude Include="..\Classes\ui\element\gameIntroduceLayer.h" />
+    <ClInclude Include="..\Classes\ui\element\guidelinesLayer.h" />
+    <ClInclude Include="..\Classes\ui\element\LogicTouchItem.h" />
+    <ClInclude Include="..\Classes\ui\element\mainNavgView.h" />
+    <ClInclude Include="..\Classes\ui\element\mainSatusView.h" />
+    <ClInclude Include="..\Classes\ui\element\ModalDialogView.h" />
+    <ClInclude Include="..\Classes\ui\element\ProgressView.h" />
+    <ClInclude Include="..\Classes\ui\element\SkillAnimation.h" />
+    <ClInclude Include="..\Classes\ui\element\FightTips.h" />
+    <ClInclude Include="..\Classes\ui\equipmentAllUI.h" />
+    <ClInclude Include="..\Classes\ui\equipmentAllUIView.h" />
+    <ClInclude Include="..\Classes\ui\equipmentInspectUI.h" />
+    <ClInclude Include="..\Classes\ui\equipmentInspectUIView.h" />
+    <ClInclude Include="..\Classes\ui\equipmentSellUI.h" />
+    <ClInclude Include="..\Classes\ui\equipmentSellUIView.h" />
+    <ClInclude Include="..\Classes\ui\EscortWoodUI.h" />
+    <ClInclude Include="..\Classes\ui\EscortWoodUIView.h" />
+    <ClInclude Include="..\Classes\ui\fightResultUI.h" />
+    <ClInclude Include="..\Classes\ui\fightResultUIView.h" />
+    <ClInclude Include="..\Classes\ui\giftDetailUI.h" />
+    <ClInclude Include="..\Classes\ui\giftDetailUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroBaseActivityUI.h" />
+    <ClInclude Include="..\Classes\ui\heroBaseActivityUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroBookUI.h" />
+    <ClInclude Include="..\Classes\ui\heroBookUIView.h" />
+    <ClInclude Include="..\Classes\ui\HeroEquipUI.h" />
+    <ClInclude Include="..\Classes\ui\HeroEquipUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroEvolveUI.h" />
+    <ClInclude Include="..\Classes\ui\heroEvolveUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroFightChooseUI.h" />
+    <ClInclude Include="..\Classes\ui\heroFightChooseUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroInfoUI.h" />
+    <ClInclude Include="..\Classes\ui\heroInfoUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroUpgradeUI.h" />
+    <ClInclude Include="..\Classes\ui\heroUpgradeUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroWoodFightChooseUI.h" />
+    <ClInclude Include="..\Classes\ui\heroWoodFightChooseUIView.h" />
+    <ClInclude Include="..\Classes\ui\levelListUI.h" />
+    <ClInclude Include="..\Classes\ui\levelListUIView.h" />
+    <ClInclude Include="..\Classes\ui\loadDistributeUI.h" />
+    <ClInclude Include="..\Classes\ui\loadDistributeUIView.h" />
+    <ClInclude Include="..\Classes\ui\loginUi.h" />
+    <ClInclude Include="..\Classes\ui\loginView.h" />
+    <ClInclude Include="..\Classes\ui\logoUi.h" />
+    <ClInclude Include="..\Classes\ui\logoView.h" />
+    <ClInclude Include="..\Classes\ui\mainPageUI.h" />
+    <ClInclude Include="..\Classes\ui\mainPageUIView.h" />
+    <ClInclude Include="..\Classes\ui\heroRecruitUI.h" />
+    <ClInclude Include="..\Classes\ui\heroRecruitUIView.h" />
+    <ClInclude Include="..\Classes\ui\messageUI.h" />
+    <ClInclude Include="..\Classes\ui\messageUIView.h" />
+    <ClInclude Include="..\Classes\ui\NoticeUi.h" />
+    <ClInclude Include="..\Classes\ui\NoticeUIView.h" />
+    <ClInclude Include="..\Classes\ui\OtherheroInfoUI.h" />
+    <ClInclude Include="..\Classes\ui\otherheroInfoUView.h" />
+    <ClInclude Include="..\Classes\ui\placardUI.h" />
+    <ClInclude Include="..\Classes\ui\placardUIView.h" />
+    <ClInclude Include="..\Classes\ui\rankListUI.h" />
+    <ClInclude Include="..\Classes\ui\rankListUIView.h" />
+    <ClInclude Include="..\Classes\ui\rechargeUI.h" />
+    <ClInclude Include="..\Classes\ui\rechargeUIView.h" />
+    <ClInclude Include="..\Classes\ui\SceneManger.h" />
+    <ClInclude Include="..\Classes\ui\secretStoreUI.h" />
+    <ClInclude Include="..\Classes\ui\secretStoreUIView.h" />
+    <ClInclude Include="..\Classes\ui\selectRoleUi.h" />
+    <ClInclude Include="..\Classes\ui\selectRoleView.h" />
+    <ClInclude Include="..\Classes\ui\settingUI.h" />
+    <ClInclude Include="..\Classes\ui\settingUIView.h" />
+    <ClInclude Include="..\Classes\ui\skillInspectUI.h" />
+    <ClInclude Include="..\Classes\ui\skillInspectUIView.h" />
+    <ClInclude Include="..\Classes\ui\SkillUpgradeEquiUI.h" />
+    <ClInclude Include="..\Classes\ui\SkillUpgradeEquiUIView.h" />
+    <ClInclude Include="..\Classes\ui\taskInfoUI.h" />
+    <ClInclude Include="..\Classes\ui\taskInfoUIView.h" />
+    <ClInclude Include="..\Classes\ui\teamListUI.h" />
+    <ClInclude Include="..\Classes\ui\teamListUIView.h" />
+    <ClInclude Include="..\Classes\ui\TipUi.h" />
+    <ClInclude Include="..\Classes\ui\TipUiView.h" />
+    <ClInclude Include="..\Classes\ui\ui.h" />
+    <ClInclude Include="..\Classes\ui\UISystem.h" />
+    <ClInclude Include="..\Classes\ui\UpdataUi.h" />
+    <ClInclude Include="..\Classes\ui\UpdataView.h" />
+    <ClInclude Include="..\Classes\ui\userInfoUI.h" />
+    <ClInclude Include="..\Classes\ui\userInfoUIView.h" />
+    <ClInclude Include="..\Classes\ui\userLoginUI.h" />
+    <ClInclude Include="..\Classes\ui\userLoginUIView.h" />
+    <ClInclude Include="..\Classes\ui\UserUpgradeUI.h" />
+    <ClInclude Include="..\Classes\ui\UserUpgradeUIView.h" />
+    <ClInclude Include="..\Classes\ui\WoodShiZheUI.h" />
+    <ClInclude Include="..\Classes\ui\WoodShiZheUIView.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\server\Common\GameUtil.cpp" />
+    <ClCompile Include="..\..\..\server\Common\ItemData.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Arena\CGArenaAskDetailPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Arena\CGArenaAskEnterPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Arena\CGArenaChallengePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Arena\GCArenaAskEnterRetPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Arena\GCArenaChallengePrizePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\CGHeartBeatPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Charge\CGAskChargePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Charge\GCRetChargePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Fight\CGAskCopySceneListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Fight\CGAskFightPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Fight\GCFightInfoPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Fight\GCRetCopySceneListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Fight\GCUpdateCopyScenePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\GCGameResultPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\GCTimePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\CGAskHeroListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\CGDistribHeroBearpointPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\CGImproveHeroPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\CGRecruitHeroPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\GCHeroDeletePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\GCHeroDetailAttrPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\GCHeroPosChangePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Hero\GCNewHeroListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Human\CGAskHumanDetailAttrPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Human\CGChatPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Human\CGEquipManufacturePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Human\CGSetMatrixObjectPacket.cpp" />
+    <ClCompile Include="..\..\..\Server\Common\Packets\Human\GCChatPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Human\GCRetHumanDetailAttrPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\HuoDong\CGAskHuoDongListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\HuoDong\GCHuoDongListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\HuoDong\GCHuoDongStateChangePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\CGAskItemListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\CGDropItemPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\CGMoveItemPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\CGUseItemPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCItemDeletePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCItemInfoPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCItemListNotifyPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCItemPosChangePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCNewItemListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Item\GCSwapItemPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\CGAskEnterScenePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\CGAskRolelistPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\CGAskUserDataPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\CGCreateRolePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\GCRetEnterScenePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\GCRetRolelistPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Login\GCRetUserDataReadyPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailAskOpenPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailDelAllPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailDelPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailReadAllPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailReadPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\CGMailWritePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\GCMailNotifyPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mail\GCMailOpenPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mission\CGAskMissionListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mission\CGSubmitMissionPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mission\GCAcceptMissionPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mission\GCMissionListPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Mission\GCUpdateMissionPacket.cpp" />
+    <ClCompile Include="..\..\..\Server\Common\Packets\Other\CGAskAchievementPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGAskSkillLevelUpPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGBuyActionPointPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGBuyBearPointPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGBuyShopItemPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGEatCheesePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGExchangeStonePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGFreshGuidePacket.cpp" />
+    <ClCompile Include="..\..\..\Server\Common\Packets\Other\CGGetAchievementAwardPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGGetGiftpackCardPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGRefreshCopyScenePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGRockHeroPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGSacrificePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Other\CGSellItemPacket.cpp" />
+    <ClCompile Include="..\..\..\Server\Common\Packets\Other\GCRetAchievementPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGAskQuJingDataPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGOpenQuJingUIPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGQuJingHuSongPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGQuJingRobPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGQuJingSetMatrixPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGQuJingSpeedUpPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGRefreshQuJingShiZhePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\CGRefreshQuJingTangSengPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\GCOpenQuJingUIPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\GCQuJingHuSongBroadPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\GCQuJingPrizePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\QuJing\GCRetQuJingDataPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Stair\CGStairAskPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Stair\GCStairMonsterGroupPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Stair\GCStairPlusPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Stair\GCStairPrizePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Stair\GCStairRetEnterPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Wood\CGWoodAskPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Wood\CGWoodSetMatrixPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Wood\GCWoodRetEnterPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Wood\GCWoodRetRobObjPacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\Packets\Wood\GCWoodRobPrizePacket.cpp" />
+    <ClCompile Include="..\..\..\server\Common\XStdio.cpp" />
+    <ClCompile Include="..\..\..\server\ServerCommon\ServerAssert.cpp" />
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\base\md5.cpp" />
+    <ClCompile Include="..\Classes\base\nine1-android.cpp" />
+    <ClCompile Include="..\Classes\base\nuts.cpp" />
+    <ClCompile Include="..\Classes\base\Sdk_Handler.cpp" />
+    <ClCompile Include="..\Classes\base\sha1.cpp" />
+    <ClCompile Include="..\Classes\base\UtilTools.cpp" />
+    <ClCompile Include="..\Classes\base\xString.cpp" />
+    <ClCompile Include="..\Classes\database\DataBase.cpp" />
+    <ClCompile Include="..\Classes\database\DataBaseSystem.cpp" />
+    <ClCompile Include="..\Classes\database\DBFile.cpp" />
+    <ClCompile Include="..\Classes\datapool\AchievementData.cpp" />
+    <ClCompile Include="..\Classes\datapool\BattleData.cpp" />
+    <ClCompile Include="..\Classes\datapool\BattleInfo.cpp" />
+    <ClCompile Include="..\Classes\datapool\BloodData.cpp" />
+    <ClCompile Include="..\Classes\datapool\ChatData.cpp" />
+    <ClCompile Include="..\Classes\datapool\CopySceneData.cpp" />
+    <ClCompile Include="..\Classes\datapool\DataPool.cpp" />
+    <ClCompile Include="..\Classes\datapool\EquipOperator.cpp" />
+    <ClCompile Include="..\Classes\datapool\GuideData.cpp" />
+    <ClCompile Include="..\Classes\datapool\HeartBeatData.cpp" />
+    <ClCompile Include="..\Classes\datapool\HeroAltarData.cpp" />
+    <ClCompile Include="..\Classes\datapool\HeroOperator.cpp" />
+    <ClCompile Include="..\Classes\datapool\HuoDong.cpp" />
+    <ClCompile Include="..\Classes\datapool\loginData.cpp" />
+    <ClCompile Include="..\Classes\datapool\MailData.cpp" />
+    <ClCompile Include="..\Classes\datapool\QuestData.cpp" />
+    <ClCompile Include="..\Classes\datapool\QuJingData.cpp" />
+    <ClCompile Include="..\Classes\datapool\SportsData.cpp" />
+    <ClCompile Include="..\Classes\datapool\SelfBagData.cpp" />
+    <ClCompile Include="..\Classes\datapool\SettingData.cpp" />
+    <ClCompile Include="..\Classes\datapool\ShopData.cpp" />
+    <ClCompile Include="..\Classes\datapool\WalkMapData.cpp" />
+    <ClCompile Include="..\Classes\datapool\WoodData.cpp" />
+    <ClCompile Include="..\Classes\event\EventSystem.cpp" />
+    <ClCompile Include="..\Classes\Game.cpp" />
+    <ClCompile Include="..\Classes\game\GameHelper.cpp" />
+    <ClCompile Include="..\Classes\game\MainGame.cpp" />
+    <ClCompile Include="..\Classes\game\SendPacket.cpp" />
+    <ClCompile Include="..\Classes\load\ResourceCheck.cpp" />
+    <ClCompile Include="..\Classes\load\ResourceSystem.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\InputStream.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\OutputStream.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\Socket.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\SocketClient.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\SocketInterface.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\SocketServer.cpp" />
+    <ClCompile Include="..\Classes\netlib\Src\SocketStream.cpp" />
+    <ClCompile Include="..\Classes\net\NetworkSystem.cpp" />
+    <ClCompile Include="..\Classes\net\PacketClientFactoryManager.cpp" />
+    <ClCompile Include="..\Classes\net\PacketExecute.cpp" />
+    <ClCompile Include="..\Classes\object\Item.cpp" />
+    <ClCompile Include="..\Classes\object\ItemCommon.cpp" />
+    <ClCompile Include="..\Classes\object\ItemEquip.cpp" />
+    <ClCompile Include="..\Classes\object\ItemGem.cpp" />
+    <ClCompile Include="..\Classes\object\ItemTask.cpp" />
+    <ClCompile Include="..\Classes\object\MonsterData.cpp" />
+    <ClCompile Include="..\Classes\object\Object.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectFarmer.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectManager.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectMonster.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectPlayer.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectSelf.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectSkill.cpp" />
+    <ClCompile Include="..\Classes\object\PlayerData.cpp" />
+    <ClCompile Include="..\Classes\object\ObjectHero.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCArenaAskEnterRetPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCChatPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCCopySceneHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCFightInfoPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCGameResultPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCHeroDeletePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCHeroDetailAttrPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCHeroPosChangePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCHuoDongPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCItemDeletePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCItemInfoPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCItemPosChangePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCMailHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCNewHeroListPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCNewItemListPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCQuestPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCQujingHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCRetEnterScenePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCRetHumanDetailAttrPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCRetUserDataReadyPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCStairHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCSwapItemPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCTimePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCRetRolelistPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCWoodRetEnterPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCWoodRetRobObjPacketHandler.cpp" />
+    <ClCompile Include="..\Classes\packetexecute\GCWoodRobPrizePacketHandler.cpp" />
+    <ClCompile Include="..\Classes\sound\SoundSystem.cpp" />
+    <ClCompile Include="..\Classes\timer\SystemTimer.cpp" />
+    <ClCompile Include="..\Classes\ui\achievementUI.cpp" />
+    <ClCompile Include="..\Classes\ui\achievementUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\ActivitiesUI.cpp" />
+    <ClCompile Include="..\Classes\ui\ActivitiesUView.cpp" />
+    <ClCompile Include="..\Classes\ui\altarUI.cpp" />
+    <ClCompile Include="..\Classes\ui\altarUView.cpp" />
+    <ClCompile Include="..\Classes\ui\bagOwnUI.cpp" />
+    <ClCompile Include="..\Classes\ui\bagOwnUView.cpp" />
+    <ClCompile Include="..\Classes\ui\battleFieldUI.cpp" />
+    <ClCompile Include="..\Classes\ui\battleFieldUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\ChatMessageUI.cpp" />
+    <ClCompile Include="..\Classes\ui\ChatMessageUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\cheeseActivityUI.cpp" />
+    <ClCompile Include="..\Classes\ui\cheeseActivityUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\ActivityView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\CCMenuEx.cpp" />
+    <ClCompile Include="..\Classes\ui\element\CCScrollViewEx.cpp" />
+    <ClCompile Include="..\Classes\ui\element\gameIntroduceLayer.cpp" />
+    <ClCompile Include="..\Classes\ui\element\guidelinesLayer.cpp" />
+    <ClCompile Include="..\Classes\ui\element\LogicTouchItem.cpp" />
+    <ClCompile Include="..\Classes\ui\element\mainNavgView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\mainSatusView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\ModalDialogView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\ProgressView.cpp" />
+    <ClCompile Include="..\Classes\ui\element\SkillAnimation.cpp" />
+    <ClCompile Include="..\Classes\ui\element\FightTips.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentAllUI.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentAllUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentInspectUI.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentInspectUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentSellUI.cpp" />
+    <ClCompile Include="..\Classes\ui\equipmentSellUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\EscortWoodUI.cpp" />
+    <ClCompile Include="..\Classes\ui\EscortWoodUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\fightResultUI.cpp" />
+    <ClCompile Include="..\Classes\ui\fightResultUView.cpp" />
+    <ClCompile Include="..\Classes\ui\giftDetailUI.cpp" />
+    <ClCompile Include="..\Classes\ui\giftDetailUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroBaseActivityUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroBaseActivityUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroBaseWoodPVPUIViewHandle.cpp" />
+    <ClCompile Include="..\Classes\ui\heroBookUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroBookUView.cpp" />
+    <ClCompile Include="..\Classes\ui\HeroEquipUI.cpp" />
+    <ClCompile Include="..\Classes\ui\HeroEquipUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroEvolveUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroEvolveUView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroFightChooseUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroFightChooseUView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroInfoUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroInfoUView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroUpgradeUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroUpgradeUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroWoodFightChooseUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroWoodFightChooseUView.cpp" />
+    <ClCompile Include="..\Classes\ui\levelListUI.cpp" />
+    <ClCompile Include="..\Classes\ui\levelListUView.cpp" />
+    <ClCompile Include="..\Classes\ui\loadDistributeUI.cpp" />
+    <ClCompile Include="..\Classes\ui\loadDistributeUView.cpp" />
+    <ClCompile Include="..\Classes\ui\loginUi.cpp" />
+    <ClCompile Include="..\Classes\ui\loginView.cpp" />
+    <ClCompile Include="..\Classes\ui\logoUi.cpp" />
+    <ClCompile Include="..\Classes\ui\logoView.cpp" />
+    <ClCompile Include="..\Classes\ui\mainPageUI.cpp" />
+    <ClCompile Include="..\Classes\ui\mainPageUView.cpp" />
+    <ClCompile Include="..\Classes\ui\heroRecruitUI.cpp" />
+    <ClCompile Include="..\Classes\ui\heroRecruitUView.cpp" />
+    <ClCompile Include="..\Classes\ui\messageUI.cpp" />
+    <ClCompile Include="..\Classes\ui\messageUView.cpp" />
+    <ClCompile Include="..\Classes\ui\NoticeUi.cpp" />
+    <ClCompile Include="..\Classes\ui\NoticeUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\OtherheroInfoUI.cpp" />
+    <ClCompile Include="..\Classes\ui\otherheroInfoUView.cpp" />
+    <ClCompile Include="..\Classes\ui\placardUI.cpp" />
+    <ClCompile Include="..\Classes\ui\placardUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\rankListUI.cpp" />
+    <ClCompile Include="..\Classes\ui\rankListUView.cpp" />
+    <ClCompile Include="..\Classes\ui\rechargeUI.cpp" />
+    <ClCompile Include="..\Classes\ui\rechargeUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\SceneManger.cpp" />
+    <ClCompile Include="..\Classes\ui\secretStoreUI.cpp" />
+    <ClCompile Include="..\Classes\ui\secretStoreUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\selectRoleUi.cpp" />
+    <ClCompile Include="..\Classes\ui\selectRoleView.cpp" />
+    <ClCompile Include="..\Classes\ui\settingUI.cpp" />
+    <ClCompile Include="..\Classes\ui\settingUView.cpp" />
+    <ClCompile Include="..\Classes\ui\skillInspectUI.cpp" />
+    <ClCompile Include="..\Classes\ui\skillInspectUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\SkillUpgradeEquiUI.cpp" />
+    <ClCompile Include="..\Classes\ui\SkillUpgradeEquiUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\taskInfoUI.cpp" />
+    <ClCompile Include="..\Classes\ui\taskInfoUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\teamListUI.cpp" />
+    <ClCompile Include="..\Classes\ui\teamListUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\TipUi.cpp" />
+    <ClCompile Include="..\Classes\ui\TipUiView.cpp" />
+    <ClCompile Include="..\Classes\ui\ui.cpp" />
+    <ClCompile Include="..\Classes\ui\UISystem.cpp" />
+    <ClCompile Include="..\Classes\ui\UpdataUi.cpp" />
+    <ClCompile Include="..\Classes\ui\UpdataView.cpp" />
+    <ClCompile Include="..\Classes\ui\userInfoUI.cpp" />
+    <ClCompile Include="..\Classes\ui\userInfoUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\userLoginUI.cpp" />
+    <ClCompile Include="..\Classes\ui\userLoginUIView.cpp" />
+    <ClCompile Include="..\Classes\ui\UserUpgradeUI.cpp" />
+    <ClCompile Include="..\Classes\ui\UserUpgradeUIUView.cpp" />
+    <ClCompile Include="..\Classes\ui\WoodShiZheUI.cpp" />
+    <ClCompile Include="..\Classes\ui\WoodShiZheUIView.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

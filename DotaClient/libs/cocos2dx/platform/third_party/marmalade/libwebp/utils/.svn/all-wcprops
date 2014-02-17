@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/utils.c
+END
+bit_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/bit_reader.c
+END
+rescaler.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/rescaler.c
+END
+color_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/color_cache.c
+END
+huffman_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/huffman_encode.c
+END
+quant_levels.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/quant_levels.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/utils.h
+END
+rescaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/rescaler.h
+END
+bit_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/bit_reader.h
+END
+color_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/color_cache.h
+END
+huffman_encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/huffman_encode.h
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/thread.c
+END
+quant_levels.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/quant_levels.h
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/filters.c
+END
+bit_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/bit_writer.c
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/thread.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/filters.h
+END
+bit_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/bit_writer.h
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/huffman.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/Makefile.am
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/utils/huffman.h
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dota/!svn/ver/2501/branches/dota1.1/client/DotaClient/Classes/ui/element
+END
+ProgressView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/1464/branches/dota1.1/client/DotaClient/Classes/ui/element/ProgressView.cpp
+END
+mainSatusView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/element/mainSatusView.cpp
+END
+mainNavgView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/mainNavgView.h
+END
+FightTips.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/1722/branches/dota1.1/client/DotaClient/Classes/ui/element/FightTips.cpp
+END
+CCScrollViewEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/element/CCScrollViewEx.h
+END
+ProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/ProgressView.h
+END
+mainSatusView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/1493/branches/dota1.1/client/DotaClient/Classes/ui/element/mainSatusView.h
+END
+FightTips.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/FightTips.h
+END
+ModalDialogView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/2501/branches/dota1.1/client/DotaClient/Classes/ui/element/ModalDialogView.cpp
+END
+CCMenuEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2376/branches/dota1.1/client/DotaClient/Classes/ui/element/CCMenuEx.cpp
+END
+ModalDialogView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/2459/branches/dota1.1/client/DotaClient/Classes/ui/element/ModalDialogView.h
+END
+CCMenuEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2376/branches/dota1.1/client/DotaClient/Classes/ui/element/CCMenuEx.h
+END
+SkillAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/SkillAnimation.cpp
+END
+LogicTouchItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/1648/branches/dota1.1/client/DotaClient/Classes/ui/element/LogicTouchItem.cpp
+END
+SkillAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/SkillAnimation.h
+END
+gameIntroduceLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/1857/branches/dota1.1/client/DotaClient/Classes/ui/element/gameIntroduceLayer.cpp
+END
+LogicTouchItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/1230/branches/dota1.1/client/DotaClient/Classes/ui/element/LogicTouchItem.h
+END
+guidelinesLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/element/guidelinesLayer.cpp
+END
+ActivityView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/ActivityView.cpp
+END
+gameIntroduceLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/1821/branches/dota1.1/client/DotaClient/Classes/ui/element/gameIntroduceLayer.h
+END
+guidelinesLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/guidelinesLayer.h
+END
+mainNavgView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/element/mainNavgView.cpp
+END
+CCScrollViewEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/element/CCScrollViewEx.cpp
+END
+ActivityView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/element/ActivityView.h
+END

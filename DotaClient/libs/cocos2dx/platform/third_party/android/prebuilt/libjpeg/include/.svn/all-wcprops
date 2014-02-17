@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jpeglib.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jconfig.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/android/prebuilt/libjpeg/include/jerror.h
+END

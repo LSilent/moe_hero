@@ -1,0 +1,1169 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dota/!svn/ver/2739/branches/dota1.1/client/DotaClient/Classes/ui
+END
+TipUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/TipUi.h
+END
+heroBaseActivityUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseActivityUIView.h
+END
+placardUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2334/branches/dota1.1/client/DotaClient/Classes/ui/placardUIView.h
+END
+heroUpgradeUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroUpgradeUI.h
+END
+placardUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/2327/branches/dota1.1/client/DotaClient/Classes/ui/placardUI.h
+END
+heroRecruitUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2739/branches/dota1.1/client/DotaClient/Classes/ui/heroRecruitUView.cpp
+END
+settingUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/1205/branches/dota1.1/client/DotaClient/Classes/ui/settingUI.cpp
+END
+loadDistributeUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/1520/branches/dota1.1/client/DotaClient/Classes/ui/loadDistributeUIView.h
+END
+taskInfoUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/taskInfoUIView.h
+END
+heroBaseWoodPVPUIViewHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dota/!svn/ver/2026/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseWoodPVPUIViewHandle.cpp
+END
+OtherheroInfoUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/479/branches/dota1.1/client/DotaClient/Classes/ui/OtherheroInfoUI.h
+END
+NoticeUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/2071/branches/dota1.1/client/DotaClient/Classes/ui/NoticeUi.cpp
+END
+loadDistributeUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/loadDistributeUI.h
+END
+achievementUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2655/branches/dota1.1/client/DotaClient/Classes/ui/achievementUIView.cpp
+END
+taskInfoUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/taskInfoUI.h
+END
+messageUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/ui/messageUIView.h
+END
+mainPageUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/mainPageUI.h
+END
+UserUpgradeUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1256/branches/dota1.1/client/DotaClient/Classes/ui/UserUpgradeUIView.h
+END
+equipmentSellUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1487/branches/dota1.1/client/DotaClient/Classes/ui/equipmentSellUI.cpp
+END
+SceneManger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/ui/SceneManger.cpp
+END
+messageUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/messageUI.h
+END
+heroRecruitUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2739/branches/dota1.1/client/DotaClient/Classes/ui/heroRecruitUIView.h
+END
+UserUpgradeUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/UserUpgradeUI.h
+END
+bagOwnUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/bagOwnUView.cpp
+END
+placardUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2577/branches/dota1.1/client/DotaClient/Classes/ui/placardUIView.cpp
+END
+heroFightChooseUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/2318/branches/dota1.1/client/DotaClient/Classes/ui/heroFightChooseUView.cpp
+END
+heroUpgradeUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroUpgradeUI.cpp
+END
+messageUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2467/branches/dota1.1/client/DotaClient/Classes/ui/messageUView.cpp
+END
+HeroEquipUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/HeroEquipUI.h
+END
+UserUpgradeUIUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/1540/branches/dota1.1/client/DotaClient/Classes/ui/UserUpgradeUIUView.cpp
+END
+giftDetailUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/giftDetailUIView.cpp
+END
+loginUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/1897/branches/dota1.1/client/DotaClient/Classes/ui/loginUi.cpp
+END
+taskInfoUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/taskInfoUIView.cpp
+END
+rankListUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2459/branches/dota1.1/client/DotaClient/Classes/ui/rankListUView.cpp
+END
+loginView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/2479/branches/dota1.1/client/DotaClient/Classes/ui/loginView.h
+END
+NoticeUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/NoticeUIView.cpp
+END
+baseview.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/1065/branches/dota1.1/client/DotaClient/Classes/ui/baseview.h
+END
+heroEvolveUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/1619/branches/dota1.1/client/DotaClient/Classes/ui/heroEvolveUIView.h
+END
+mainPageUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/mainPageUI.cpp
+END
+heroEvolveUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroEvolveUI.h
+END
+EscortWoodUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/EscortWoodUIView.cpp
+END
+WoodShiZheUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/1694/branches/dota1.1/client/DotaClient/Classes/ui/WoodShiZheUIView.h
+END
+heroBookUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/heroBookUView.cpp
+END
+userInfoUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2479/branches/dota1.1/client/DotaClient/Classes/ui/userInfoUIView.h
+END
+heroRecruitUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroRecruitUI.cpp
+END
+rankListUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/rankListUI.h
+END
+selectRoleView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2547/branches/dota1.1/client/DotaClient/Classes/ui/selectRoleView.cpp
+END
+skillInspectUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/2208/branches/dota1.1/client/DotaClient/Classes/ui/skillInspectUIView.cpp
+END
+userInfoUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/userInfoUI.h
+END
+fightResultUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/fightResultUI.cpp
+END
+equipmentAllUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/equipmentAllUI.cpp
+END
+HeroEquipUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/1914/branches/dota1.1/client/DotaClient/Classes/ui/HeroEquipUI.cpp
+END
+mainPageUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2376/branches/dota1.1/client/DotaClient/Classes/ui/mainPageUView.cpp
+END
+loginView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2580/branches/dota1.1/client/DotaClient/Classes/ui/loginView.cpp
+END
+altarUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/altarUI.h
+END
+loginUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/1897/branches/dota1.1/client/DotaClient/Classes/ui/loginUi.h
+END
+cheeseActivityUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/cheeseActivityUI.h
+END
+heroWoodFightChooseUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/481/branches/dota1.1/client/DotaClient/Classes/ui/heroWoodFightChooseUI.h
+END
+ChatMessageUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/ui/ChatMessageUIView.cpp
+END
+battleFieldUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/battleFieldUIView.h
+END
+NoticeUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/NoticeUIView.h
+END
+equipmentSellUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/2702/branches/dota1.1/client/DotaClient/Classes/ui/equipmentSellUIView.cpp
+END
+teamListUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/teamListUIView.h
+END
+WoodShiZheUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/797/branches/dota1.1/client/DotaClient/Classes/ui/WoodShiZheUI.cpp
+END
+ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dota/!svn/ver/2071/branches/dota1.1/client/DotaClient/Classes/ui/ui.h
+END
+UISystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/2571/branches/dota1.1/client/DotaClient/Classes/ui/UISystem.cpp
+END
+levelListUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2733/branches/dota1.1/client/DotaClient/Classes/ui/levelListUView.cpp
+END
+userInfoUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2491/branches/dota1.1/client/DotaClient/Classes/ui/userInfoUIView.cpp
+END
+teamListUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/teamListUI.h
+END
+achievementUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/achievementUI.cpp
+END
+loadDistributeUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/2376/branches/dota1.1/client/DotaClient/Classes/ui/loadDistributeUView.cpp
+END
+logoUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/logoUi.cpp
+END
+fightResultUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2702/branches/dota1.1/client/DotaClient/Classes/ui/fightResultUIView.h
+END
+heroUpgradeUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2545/branches/dota1.1/client/DotaClient/Classes/ui/heroUpgradeUIView.cpp
+END
+equipmentAllUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/1481/branches/dota1.1/client/DotaClient/Classes/ui/equipmentAllUIView.h
+END
+logoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/logoView.h
+END
+levelListUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/levelListUIView.h
+END
+fightResultUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/fightResultUI.h
+END
+equipmentAllUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/equipmentAllUI.h
+END
+placardUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2334/branches/dota1.1/client/DotaClient/Classes/ui/placardUI.cpp
+END
+userLoginUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2420/branches/dota1.1/client/DotaClient/Classes/ui/userLoginUIView.h
+END
+cheeseActivityUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2570/branches/dota1.1/client/DotaClient/Classes/ui/cheeseActivityUI.cpp
+END
+heroWoodFightChooseUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/heroWoodFightChooseUI.cpp
+END
+SkillUpgradeEquiUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/SkillUpgradeEquiUIView.h
+END
+UpdataView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2014/branches/dota1.1/client/DotaClient/Classes/ui/UpdataView.cpp
+END
+giftDetailUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/giftDetailUI.cpp
+END
+settingUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/1532/branches/dota1.1/client/DotaClient/Classes/ui/settingUIView.h
+END
+teamListUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/teamListUIView.cpp
+END
+loadDistributeUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/loadDistributeUI.cpp
+END
+heroInfoUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroInfoUI.h
+END
+taskInfoUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/taskInfoUI.cpp
+END
+SkillUpgradeEquiUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/SkillUpgradeEquiUI.h
+END
+battleFieldUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/battleFieldUI.cpp
+END
+heroFightChooseUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroFightChooseUI.cpp
+END
+bagOwnUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/bagOwnUI.h
+END
+UpdataUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/UpdataUi.h
+END
+UserUpgradeUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2261/branches/dota1.1/client/DotaClient/Classes/ui/UserUpgradeUI.cpp
+END
+achievementUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2655/branches/dota1.1/client/DotaClient/Classes/ui/achievementUIView.h
+END
+EscortWoodUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1230/branches/dota1.1/client/DotaClient/Classes/ui/EscortWoodUI.cpp
+END
+UISystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/UISystem.h
+END
+heroWoodFightChooseUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/2318/branches/dota1.1/client/DotaClient/Classes/ui/heroWoodFightChooseUView.cpp
+END
+equipmentSellUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/equipmentSellUI.h
+END
+HeroEquipUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2336/branches/dota1.1/client/DotaClient/Classes/ui/HeroEquipUIView.cpp
+END
+logoView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/1745/branches/dota1.1/client/DotaClient/Classes/ui/logoView.cpp
+END
+achievementUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/achievementUI.h
+END
+heroEvolveUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2208/branches/dota1.1/client/DotaClient/Classes/ui/heroEvolveUView.cpp
+END
+equipmentInspectUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/equipmentInspectUI.h
+END
+secretStoreUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/secretStoreUIView.h
+END
+otherheroInfoUView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/1694/branches/dota1.1/client/DotaClient/Classes/ui/otherheroInfoUView.h
+END
+levelListUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/levelListUI.cpp
+END
+ActivitiesUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/ActivitiesUI.cpp
+END
+skillInspectUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/skillInspectUI.cpp
+END
+logoUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/logoUi.h
+END
+heroUpgradeUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1895/branches/dota1.1/client/DotaClient/Classes/ui/heroUpgradeUIView.h
+END
+SkillUpgradeEquiUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/1868/branches/dota1.1/client/DotaClient/Classes/ui/SkillUpgradeEquiUIView.cpp
+END
+secretStoreUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/secretStoreUI.h
+END
+userLoginUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/userLoginUI.cpp
+END
+heroBookUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/heroBookUI.cpp
+END
+heroInfoUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroInfoUI.cpp
+END
+heroBaseActivityUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/595/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseActivityUI.h
+END
+rechargeUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2429/branches/dota1.1/client/DotaClient/Classes/ui/rechargeUIView.cpp
+END
+giftDetailUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2479/branches/dota1.1/client/DotaClient/Classes/ui/giftDetailUIView.h
+END
+bagOwnUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/bagOwnUI.cpp
+END
+heroEvolveUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroEvolveUI.cpp
+END
+WoodShiZheUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/WoodShiZheUIView.cpp
+END
+heroFightChooseUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/1344/branches/dota1.1/client/DotaClient/Classes/ui/heroFightChooseUIView.h
+END
+mainPageUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/mainPageUIView.h
+END
+giftDetailUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2467/branches/dota1.1/client/DotaClient/Classes/ui/giftDetailUI.h
+END
+ChatMessageUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/1938/branches/dota1.1/client/DotaClient/Classes/ui/ChatMessageUI.cpp
+END
+heroFightChooseUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroFightChooseUI.h
+END
+TipUiView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/TipUiView.cpp
+END
+EscortWoodUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/1938/branches/dota1.1/client/DotaClient/Classes/ui/EscortWoodUIView.h
+END
+userInfoUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/userInfoUI.cpp
+END
+heroInfoUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2485/branches/dota1.1/client/DotaClient/Classes/ui/heroInfoUView.cpp
+END
+equipmentInspectUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/equipmentInspectUI.cpp
+END
+secretStoreUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/secretStoreUIView.cpp
+END
+otherheroInfoUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/1732/branches/dota1.1/client/DotaClient/Classes/ui/otherheroInfoUView.cpp
+END
+EscortWoodUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/1065/branches/dota1.1/client/DotaClient/Classes/ui/EscortWoodUI.h
+END
+settingUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1786/branches/dota1.1/client/DotaClient/Classes/ui/settingUView.cpp
+END
+heroRecruitUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroRecruitUI.h
+END
+HeroEquipUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/1618/branches/dota1.1/client/DotaClient/Classes/ui/HeroEquipUIView.h
+END
+ActivitiesUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/ActivitiesUIView.h
+END
+cheeseActivityUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/2570/branches/dota1.1/client/DotaClient/Classes/ui/cheeseActivityUIView.cpp
+END
+skillInspectUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/1599/branches/dota1.1/client/DotaClient/Classes/ui/skillInspectUIView.h
+END
+heroBaseActivityUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/2113/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseActivityUI.cpp
+END
+heroBookUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/heroBookUIView.h
+END
+ActivitiesUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/ActivitiesUI.h
+END
+skillInspectUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/skillInspectUI.h
+END
+battleFieldUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/battleFieldUIView.cpp
+END
+OtherheroInfoUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/479/branches/dota1.1/client/DotaClient/Classes/ui/OtherheroInfoUI.cpp
+END
+heroBookUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/heroBookUI.h
+END
+teamListUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/teamListUI.cpp
+END
+ChatMessageUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1982/branches/dota1.1/client/DotaClient/Classes/ui/ChatMessageUIView.h
+END
+altarUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/930/branches/dota1.1/client/DotaClient/Classes/ui/altarUView.cpp
+END
+ActivitiesUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/ActivitiesUView.cpp
+END
+rankListUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1241/branches/dota1.1/client/DotaClient/Classes/ui/rankListUIView.h
+END
+WoodShiZheUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/694/branches/dota1.1/client/DotaClient/Classes/ui/WoodShiZheUI.h
+END
+ChatMessageUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/ChatMessageUI.h
+END
+userLoginUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2552/branches/dota1.1/client/DotaClient/Classes/ui/userLoginUIView.cpp
+END
+altarUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/altarUIView.h
+END
+selectRoleUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/selectRoleUi.h
+END
+cheeseActivityUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/2545/branches/dota1.1/client/DotaClient/Classes/ui/cheeseActivityUIView.h
+END
+heroWoodFightChooseUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/ui/heroWoodFightChooseUIView.h
+END
+SkillUpgradeEquiUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/SkillUpgradeEquiUI.cpp
+END
+UpdataUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/UpdataUi.cpp
+END
+rechargeUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/rechargeUI.cpp
+END
+UpdataView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/1965/branches/dota1.1/client/DotaClient/Classes/ui/UpdataView.h
+END
+battleFieldUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2544/branches/dota1.1/client/DotaClient/Classes/ui/battleFieldUI.h
+END
+rankListUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/rankListUI.cpp
+END
+equipmentInspectUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/1868/branches/dota1.1/client/DotaClient/Classes/ui/equipmentInspectUIView.cpp
+END
+TipUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/TipUi.cpp
+END
+heroBaseIronSmithUIViewHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/697/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseIronSmithUIViewHandle.cpp
+END
+heroBaseActivityUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/2259/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseActivityUIView.cpp
+END
+selectRoleUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1803/branches/dota1.1/client/DotaClient/Classes/ui/selectRoleUi.cpp
+END
+secretStoreUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2175/branches/dota1.1/client/DotaClient/Classes/ui/secretStoreUI.cpp
+END
+altarUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/altarUI.cpp
+END
+selectRoleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1803/branches/dota1.1/client/DotaClient/Classes/ui/selectRoleView.h
+END
+levelListUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/levelListUI.h
+END
+heroInfoUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2485/branches/dota1.1/client/DotaClient/Classes/ui/heroInfoUIView.h
+END
+userLoginUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/userLoginUI.h
+END
+bagOwnUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dota/!svn/ver/1863/branches/dota1.1/client/DotaClient/Classes/ui/bagOwnUIView.h
+END
+ui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dota/!svn/ver/2393/branches/dota1.1/client/DotaClient/Classes/ui/ui.cpp
+END
+rechargeUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/489/branches/dota1.1/client/DotaClient/Classes/ui/rechargeUIView.h
+END
+fightResultUView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2702/branches/dota1.1/client/DotaClient/Classes/ui/fightResultUView.cpp
+END
+settingUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/settingUI.h
+END
+heroBaseMasterSchoolUIViewHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dota/!svn/ver/691/branches/dota1.1/client/DotaClient/Classes/ui/heroBaseMasterSchoolUIViewHandle.cpp
+END
+messageUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/ui/messageUI.cpp
+END
+rechargeUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/rechargeUI.h
+END
+NoticeUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/NoticeUi.h
+END
+equipmentSellUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2702/branches/dota1.1/client/DotaClient/Classes/ui/equipmentSellUIView.h
+END
+equipmentAllUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/2336/branches/dota1.1/client/DotaClient/Classes/ui/equipmentAllUIView.cpp
+END
+TipUiView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/ui/TipUiView.h
+END
+equipmentInspectUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/ui/equipmentInspectUIView.h
+END
+SceneManger.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2256/branches/dota1.1/client/DotaClient/Classes/ui/SceneManger.h
+END

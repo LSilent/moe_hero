@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/stdcheaders.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/typecheck-gcc.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/multi.h
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/mprintf.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/curlrules.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/curlver.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/curl.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.1.native/usr/include/curl/curlbuild.h
+END

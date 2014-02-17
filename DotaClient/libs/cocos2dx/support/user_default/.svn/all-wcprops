@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/support/user_default
+END
+CCUserDefault.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/support/user_default/CCUserDefault.h
+END
+CCUserDefault.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/support/user_default/CCUserDefault.mm
+END
+CCUserDefault.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/support/user_default/CCUserDefault.cpp
+END
+CCUserDefaultAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/support/user_default/CCUserDefaultAndroid.cpp
+END

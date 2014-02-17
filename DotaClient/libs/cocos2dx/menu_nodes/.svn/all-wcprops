@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/menu_nodes
+END
+CCMenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/menu_nodes/CCMenuItem.h
+END
+CCMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/menu_nodes/CCMenu.h
+END
+CCMenuItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/menu_nodes/CCMenuItem.cpp
+END
+CCMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/menu_nodes/CCMenu.cpp
+END

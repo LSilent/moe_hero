@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster
+END
+ftraster.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/ftraster.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/rules.mk
+END
+raster.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/raster.c
+END
+ftrend1.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/ftrend1.c
+END
+rastpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/rastpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/Jamfile
+END
+ftrend1.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/ftrend1.h
+END
+ftmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/ftmisc.h
+END
+ftraster.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/ftraster.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/module.mk
+END
+rasterrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/rasterrs.h
+END
+rastpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src/raster/rastpic.h
+END

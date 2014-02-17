@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux
+END
+muxedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/muxedit.c
+END
+demux.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/demux.c
+END
+muxread.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/muxread.c
+END
+muxinternal.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/muxinternal.c
+END
+muxi.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/muxi.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/libwebp/mux/Makefile.am
+END

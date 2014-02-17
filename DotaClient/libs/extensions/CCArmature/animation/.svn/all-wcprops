@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation
+END
+CCProcessBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCProcessBase.cpp
+END
+CCProcessBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCProcessBase.h
+END
+CCArmatureAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCArmatureAnimation.cpp
+END
+CCTween.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCTween.cpp
+END
+CCArmatureAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCArmatureAnimation.h
+END
+CCTween.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/animation/CCTween.h
+END

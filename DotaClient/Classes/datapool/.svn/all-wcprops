@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dota/!svn/ver/2579/branches/dota1.1/client/DotaClient/Classes/datapool
+END
+HeartBeatData.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/1831/branches/dota1.1/client/DotaClient/Classes/datapool/HeartBeatData.h
+END
+EquipOperator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/865/branches/dota1.1/client/DotaClient/Classes/datapool/EquipOperator.cpp
+END
+loginData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1786/branches/dota1.1/client/DotaClient/Classes/datapool/loginData.cpp
+END
+WoodData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/1947/branches/dota1.1/client/DotaClient/Classes/datapool/WoodData.cpp
+END
+HuoDong.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2574/branches/dota1.1/client/DotaClient/Classes/datapool/HuoDong.cpp
+END
+ShopData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2182/branches/dota1.1/client/DotaClient/Classes/datapool/ShopData.cpp
+END
+BattleData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/422/branches/dota1.1/client/DotaClient/Classes/datapool/BattleData.cpp
+END
+DataPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2562/branches/dota1.1/client/DotaClient/Classes/datapool/DataPool.h
+END
+HeroOperator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/1072/branches/dota1.1/client/DotaClient/Classes/datapool/HeroOperator.cpp
+END
+HeroAltarData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/773/branches/dota1.1/client/DotaClient/Classes/datapool/HeroAltarData.cpp
+END
+SettingData.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2480/branches/dota1.1/client/DotaClient/Classes/datapool/SettingData.h
+END
+ChatData.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/ChatData.h
+END
+MailData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2467/branches/dota1.1/client/DotaClient/Classes/datapool/MailData.h
+END
+CopySceneData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/773/branches/dota1.1/client/DotaClient/Classes/datapool/CopySceneData.cpp
+END
+BloodBattleData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dota/!svn/ver/665/branches/dota1.1/client/DotaClient/Classes/datapool/BloodBattleData.cpp
+END
+AchievementData.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/2281/branches/dota1.1/client/DotaClient/Classes/datapool/AchievementData.h
+END
+QuJingData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/2232/branches/dota1.1/client/DotaClient/Classes/datapool/QuJingData.cpp
+END
+HeartBeatData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dota/!svn/ver/2336/branches/dota1.1/client/DotaClient/Classes/datapool/HeartBeatData.cpp
+END
+SportsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/422/branches/dota1.1/client/DotaClient/Classes/datapool/SportsData.h
+END
+WalkMapData.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/WalkMapData.h
+END
+GuideData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/GuideData.h
+END
+BattleInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/BattleInfo.h
+END
+BloodData.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/datapool/BloodData.h
+END
+QuestData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/QuestData.h
+END
+SelfBagData.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2327/branches/dota1.1/client/DotaClient/Classes/datapool/SelfBagData.h
+END
+DataPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2579/branches/dota1.1/client/DotaClient/Classes/datapool/DataPool.cpp
+END
+EquipOperator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/773/branches/dota1.1/client/DotaClient/Classes/datapool/EquipOperator.h
+END
+WoodData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1588/branches/dota1.1/client/DotaClient/Classes/datapool/WoodData.h
+END
+loginData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/loginData.h
+END
+SettingData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2506/branches/dota1.1/client/DotaClient/Classes/datapool/SettingData.cpp
+END
+ShopData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/1615/branches/dota1.1/client/DotaClient/Classes/datapool/ShopData.h
+END
+HuoDong.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/2530/branches/dota1.1/client/DotaClient/Classes/datapool/HuoDong.h
+END
+ChatData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/ChatData.cpp
+END
+BattleData.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dota/!svn/ver/422/branches/dota1.1/client/DotaClient/Classes/datapool/BattleData.h
+END
+MailData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2534/branches/dota1.1/client/DotaClient/Classes/datapool/MailData.cpp
+END
+HeroOperator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/634/branches/dota1.1/client/DotaClient/Classes/datapool/HeroOperator.h
+END
+HeroAltarData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/HeroAltarData.h
+END
+AchievementData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/2327/branches/dota1.1/client/DotaClient/Classes/datapool/AchievementData.cpp
+END
+SportsData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/1804/branches/dota1.1/client/DotaClient/Classes/datapool/SportsData.cpp
+END
+WalkMapData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/WalkMapData.cpp
+END
+BattleInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/BattleInfo.cpp
+END
+CopySceneData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dota/!svn/ver/773/branches/dota1.1/client/DotaClient/Classes/datapool/CopySceneData.h
+END
+GuideData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/1096/branches/dota1.1/client/DotaClient/Classes/datapool/GuideData.cpp
+END
+BloodData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/2445/branches/dota1.1/client/DotaClient/Classes/datapool/BloodData.cpp
+END
+BloodBattleData.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dota/!svn/ver/665/branches/dota1.1/client/DotaClient/Classes/datapool/BloodBattleData.h
+END
+QuestData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/datapool/QuestData.cpp
+END
+QuJingData.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2026/branches/dota1.1/client/DotaClient/Classes/datapool/QuJingData.h
+END
+SelfBagData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dota/!svn/ver/2327/branches/dota1.1/client/DotaClient/Classes/datapool/SelfBagData.cpp
+END

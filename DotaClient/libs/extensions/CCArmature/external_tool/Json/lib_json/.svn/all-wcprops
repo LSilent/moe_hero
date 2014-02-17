@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_internalmap.inl
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_internalarray.inl
+END
+json_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_lib.h
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_value.cpp
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_writer.cpp
+END
+sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/sconscript
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/config.h
+END
+json_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_tool.h
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_valueiterator.inl
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_batchallocator.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/writer.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/value.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/features.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/autolink.h
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/json_reader.cpp
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/extensions/CCArmature/external_tool/Json/lib_json/forwards.h
+END

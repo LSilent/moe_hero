@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dota/!svn/ver/2395/branches/dota1.1/client/DotaClient/Classes/event
+END
+EventDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dota/!svn/ver/2395/branches/dota1.1/client/DotaClient/Classes/event/EventDefine.h
+END
+EventSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dota/!svn/ver/2395/branches/dota1.1/client/DotaClient/Classes/event/EventSystem.cpp
+END
+EventSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/Classes/event/EventSystem.h
+END

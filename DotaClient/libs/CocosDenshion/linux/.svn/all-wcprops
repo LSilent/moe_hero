@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux
+END
+SimpleAudioEngineOpenAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux/SimpleAudioEngineOpenAL.cpp
+END
+AudioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux/AudioPlayer.h
+END
+FmodAudioPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux/FmodAudioPlayer.cpp
+END
+SimpleAudioEngineFMOD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux/SimpleAudioEngineFMOD.cpp
+END
+FmodAudioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/CocosDenshion/linux/FmodAudioPlayer.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/draw_nodes
+END
+CCDrawNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/draw_nodes/CCDrawNode.h
+END
+CCDrawingPrimitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/draw_nodes/CCDrawingPrimitives.h
+END
+CCDrawNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dota/!svn/ver/2030/branches/dota1.1/client/DotaClient/libs/cocos2dx/draw_nodes/CCDrawNode.cpp
+END
+CCDrawingPrimitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/cocos2dx/draw_nodes/CCDrawingPrimitives.cpp
+END

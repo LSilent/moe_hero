@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/keypad_dispatcher
+END
+CCKeypadDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/keypad_dispatcher/CCKeypadDelegate.cpp
+END
+CCKeypadDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h
+END
+CCKeypadDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/keypad_dispatcher/CCKeypadDelegate.h
+END
+CCKeypadDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dota/!svn/ver/248/branches/dota1.1/client/DotaClient/libs/cocos2dx/keypad_dispatcher/CCKeypadDispatcher.cpp
+END

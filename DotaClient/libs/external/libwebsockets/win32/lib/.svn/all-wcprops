@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/lib
+END
+websockets.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/lib/websockets.dll
+END
+websockets.lib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dota/!svn/ver/419/branches/dota1.1/client/DotaClient/libs/external/libwebsockets/win32/lib/websockets.lib
+END
