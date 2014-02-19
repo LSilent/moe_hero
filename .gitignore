@@ -1,0 +1,6 @@
+/DotaClient/proj.win32
+*.sdf
+DotaClient.opensdf
+*.swp
+*.bak
+*.back
