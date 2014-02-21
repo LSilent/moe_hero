@@ -9,7 +9,8 @@ bool logoView::init()
     bool bRet = false;
     do 
     { 
-		 CC_BREAK_IF(! CCLayer::init());
+		CC_BREAK_IF(! CCLayer::init());
+		/*
 		CCSize size = CCDirector::sharedDirector()->getWinSize();
         CCSprite* pSprite = CCSprite::create("logo.jpg");
         CC_BREAK_IF(! pSprite); 
@@ -17,6 +18,7 @@ bool logoView::init()
         this->addChild(pSprite, 0);
          pSprite->setScaleX(SCALE_X);
         pSprite->setScaleY(SCALE_Y);
+		*/
         bRet = true;
 		cocos2d::CCLog("----------------------------------------logoView::init()");
 		

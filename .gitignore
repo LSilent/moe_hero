@@ -1,8 +1,8 @@
 /DotaClient/proj.win32
 *.sdf
-DotaClient.opensdf
+/DotaClient.opensdf
 *.swp
 *.bak
 *.back
-DotaClient.v11.suo
+/DotaClient.v11.suo
 .DS_Store
