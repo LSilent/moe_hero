@@ -12,7 +12,7 @@ bool logoView::init()
 		 CC_BREAK_IF(! CCLayer::init());
 		CCSize size = CCDirector::sharedDirector()->getWinSize();
         CCSprite* pSprite = CCSprite::create("logo.jpg");
-        CC_BREAK_IF(! pSprite);
+        CC_BREAK_IF(! pSprite); 
         pSprite->setPosition(ccp(size.width/2, size.height/2));
         this->addChild(pSprite, 0);
          pSprite->setScaleX(SCALE_X);

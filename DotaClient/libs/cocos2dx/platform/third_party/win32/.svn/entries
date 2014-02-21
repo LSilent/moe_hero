@@ -1,92 +1,0 @@
-10
-
-dir
-2743
-https://192.168.1.140:8443/svn/dota/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/win32
-https://192.168.1.140:8443/svn/dota
-
-
-
-2013-06-14T06:06:39.772770Z
-52
-wangzhen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2340a17e-cdb4-8e48-9a20-f9dc049c6fc4
-
-libtiff
-dir
-
-third_party_versions.txt
-file
-
-
-
-
-2013-07-03T03:02:40.726196Z
-c64fb2b808e18411b11914c185995b20
-2013-06-14T06:06:39.772770Z
-52
-wangzhen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-121
-
-zlib
-dir
-
-libwebp
-dir
-
-curl
-dir
-
-pthread
-dir
-
-OGLES
-dir
-
-libpng
-dir
-
-libjpeg
-dir
-
-libraries
-dir
-
-iconv
-dir
-

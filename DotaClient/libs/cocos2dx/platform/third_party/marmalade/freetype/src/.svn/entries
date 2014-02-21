@@ -1,131 +1,0 @@
-10
-
-dir
-2743
-https://192.168.1.140:8443/svn/dota/branches/dota1.1/client/DotaClient/libs/cocos2dx/platform/third_party/marmalade/freetype/src
-https://192.168.1.140:8443/svn/dota
-
-
-
-2013-06-14T06:06:39.772770Z
-52
-wangzhen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2340a17e-cdb4-8e48-9a20-f9dc049c6fc4
-
-truetype
-dir
-
-type42
-dir
-
-pfr
-dir
-
-bdf
-dir
-
-pshinter
-dir
-
-cff
-dir
-
-gxvalid
-dir
-
-cid
-dir
-
-tools
-dir
-
-raster
-dir
-
-psaux
-dir
-
-type1
-dir
-
-otvalid
-dir
-
-cache
-dir
-
-psnames
-dir
-
-winfonts
-dir
-
-Jamfile
-file
-
-
-
-
-2013-07-03T03:02:59.196222Z
-d6db803dc8261ba9f3d158e7ff70ff01
-2013-06-14T06:06:39.772770Z
-52
-wangzhen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-783
-
-pcf
-dir
-
-gzip
-dir
-
-smooth
-dir
-
-base
-dir
-
-sfnt
-dir
-
-autofit
-dir
-
-lzw
-dir
-

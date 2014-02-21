@@ -37,14 +37,17 @@ X_VOID		SceneManger::Initial(X_UINT width ,X_UINT height)
 	 //pEGLView->setDesignResolutionSize(width, height, kResolutionNoBorder);
 
 #ifdef _WINDOWS_
-  	  //pEGLView->setFrameSize(640,1136);
- 	 // pEGLView->setFrameZoomFactor(0.7f);
+  	  pEGLView->setFrameSize(640,1136);
+ 	  pEGLView->setFrameZoomFactor(0.7f);
 
 
- 	     pEGLView->setFrameSize(768,1024);
-  	   pEGLView->setFrameZoomFactor(0.7f);
+ 	   //pEGLView->setFrameSize(768,1024);
+  	   //pEGLView->setFrameZoomFactor(0.7f);
 	   //pEGLView->setFrameSize(width,height);
 	 
+	   //pEGLView->setFrameSize(320,480);
+	   //pEGLView->setFrameZoomFactor(1.0f);
+	   //pEGLView->setFrameSize(width,height);
 
 	  pDirector->setDisplayStats(true);
 #else

@@ -4,3 +4,5 @@ DotaClient.opensdf
 *.swp
 *.bak
 *.back
+DotaClient.v11.suo
+.DS_Store
