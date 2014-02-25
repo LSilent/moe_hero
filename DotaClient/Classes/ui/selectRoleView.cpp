@@ -112,10 +112,9 @@ void selectRoleView::menuCloseCallback(CCObject* pSender)
 		return;
 	}
     DataPool::GetSingleton()->getLoginData()->setLoginName(str);
+	SettingData::SetStr(SettingData::Name,str);
 #endif
     
-  
-
 	((selectRoleUi*)getUserData())->onEnterClick();
     
 }
