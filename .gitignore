@@ -6,3 +6,4 @@
 *.back
 /DotaClient.v11.suo
 .DS_Store
+/DotaClient/proj.win32/Debug.win32
